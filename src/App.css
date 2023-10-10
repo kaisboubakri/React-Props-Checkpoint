@@ -1,5 +1,13 @@
 .App {
+background-color: #7c7575;
+}
+.tit {
   text-align: center;
+  color: red;
+  background-color: aqua;
+  padding: 5px;
+  margin-left:35% ;
+  margin-right: 35%;
 }
 
 .App-logo {
